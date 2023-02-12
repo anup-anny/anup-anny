@@ -8,7 +8,6 @@ Data Science Enthusiast
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on  NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING<br>
 
 🌱 I’m currently learning Python, SQL, ML, DL, Pyspark, AWS, Flask, Heroku<br>
 
