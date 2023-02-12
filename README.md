@@ -1,14 +1,15 @@
-<h1>
+<h1 align="center">
   Hi, I am Anup!
-</h1>
+  
+<h1 align="center">
 Data Science Enthusiast
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="251"/>
 </div>
 
 # 💫 About Me:<br>
-🌱I’m currently learning Python, SQL, ML, DL, Pyspark, AWS, Flask, Heroku<br>
+🌱 I’m currently learning Python, SQL, ML, DL, Pyspark, AWS, Flask, Heroku<br>
 
 💬 I regularly write articles on https://medium.com/@anupjambhulkar16<br>
 
