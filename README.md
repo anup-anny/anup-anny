@@ -14,7 +14,7 @@ Data Science Enthusiast
   
   
 # 💫 About Me:<br>
-🌱 I’m currently learning Python, SQL, ML, DL, Pyspark, AWS, Flask, Heroku<br>
+🌱 I’m currently learning Python, SQL, ML, DL, Vizualizations, Pattern recognition<br>
 
 💬 I regularly write articles on https://medium.com/@anupjambhulkar16<br>
 
